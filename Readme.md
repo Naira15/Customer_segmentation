@@ -21,7 +21,7 @@ In this project, we:
 ---
 
 ## ⚙️ Technologies Used
-- Python (core)
+- Python 
 - Libraries: `pandas`, `numpy`, `matplotlib`, `scikit-learn` , `plotly.express`
 
 ---
@@ -59,7 +59,7 @@ In this project, we:
 
 ---
 
-### 🧩 DBSCAN (Bonus)
+###  DBSCAN (Bonus)
 - DBSCAN found fewer clusters and labeled some customers as **noise (-1)**.  
 - Results were less interpretable compared to K-Means.  
 - **Conclusion:** For this dataset, **K-Means is better** because it produces clean, business-friendly clusters.  
@@ -79,4 +79,5 @@ In this project, we:
 - Businesses can use these insights to:  
   - Focus campaigns.  
   - Personalize offers.  
+
   - Allocate budgets efficiently.  
